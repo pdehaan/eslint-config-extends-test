@@ -1,5 +1,5 @@
 {
-  "extends": "./base",
+  "extends": "./_base.js",
   "rules": {
     "quotes": [2, "double"]
   }
