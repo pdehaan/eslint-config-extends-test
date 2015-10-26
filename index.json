@@ -1,6 +1,6 @@
 {
   "extends": "./base",
   "rules": {
-    "quotes": [2, 2]
+    "quotes": [2, "double"]
   }
 }
