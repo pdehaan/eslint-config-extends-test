@@ -1,1 +1,1 @@
-module.exports = require('eslint-node-style-guide');
+module.exports = require('eslint-config-node-style-guide');
